@@ -5,3 +5,7 @@
 2)this project include 3(source) + 1(test) files
 
 3)tweets may very and depend upon hashtag provided for query
+
+4)additional file i.e (Output.odt) is attached having screenshots for convineance 
+
+thanks
